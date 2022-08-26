@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # Гонщик JetBrains
 *.sln.iml
+
+# ADD X-Oleg for Home Work
+*.deps.json
+*.dll
+*.exe
+*.json
